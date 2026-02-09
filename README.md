@@ -36,7 +36,7 @@ This project combined **game design, narrative theory, and applied machine learn
 ## 📫 How to Reach Me
 
 - 📧 Email: *Guldager.post@gmail.com*  
-- 💼 LinkedIn: *https://www.linkedin.com/in/jeppe-dahl-guldager-429b87177/*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/jdguldager/*  
 
 ---
 
