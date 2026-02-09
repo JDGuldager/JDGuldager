@@ -6,7 +6,6 @@
 ## 👀 About Me
 
 I like games, and I like making them.
-
 I drink a lot of coffee.
 
 ---
