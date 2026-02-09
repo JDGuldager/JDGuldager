@@ -7,7 +7,7 @@
 
 I like games, and I like making them.
 
-I drink a lot of coffee
+I drink a lot of coffee.
 
 ---
 
