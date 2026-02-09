@@ -5,8 +5,9 @@
 
 ## 👀 About Me
 
-I’m interested in how **technology, storytelling, and user experience** intersect—especially in interactive and game-based contexts.  
-My work often explores how systems can **adapt to players or users in real time**, both narratively and visually.
+I like games, and I like making them.
+
+I drink a lot of coffee
 
 ---
 
