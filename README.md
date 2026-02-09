@@ -9,7 +9,19 @@ I like games, and I like making them.
 
 I drink a lot of coffee.
 
-What I usually do in a project: Optimization, Version Control, Bug fixing, System Design, Lighting Setup, Math specific tasks, Agent Behaviour, Materials, Shaders and Textures.
+---
+
+## 🤝 Team Contributions
+
+In collaborative projects, I often take responsibility for:
+
+- **System Design & Architecture** – structuring and creating gameplay systems
+- **Optimization & Performance** – identifying bottlenecks and improving runtime efficiency
+- **Version Control & Integration** – maintaining clean workflows and resolving conflicts
+- **Debugging & Bug Fixing** – tracking down system-level issues
+- **Agent Behaviour & Logic** – implementing AI and decision-making systems
+- **Math-Heavy Tasks** – vectors, transformations, interpolation, and gameplay math
+- **Visual Pipeline** – lighting setup, materials, shaders, and textures
 
 ---
 
