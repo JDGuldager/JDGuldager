@@ -9,6 +9,8 @@ I like games, and I like making them.
 
 I drink a lot of coffee.
 
+What I usually do in a project: Optimization, Version Control, Bug fixing, System Design, Lighting Setup, Math specific tasks, Agent Behaviour, Materials, Shaders and Textures.
+
 ---
 
 ## 🧪 Latest Project
