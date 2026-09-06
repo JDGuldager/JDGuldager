@@ -3,7 +3,7 @@
 
 ---
 
-## 👀 About Me
+## About Me
 
 I like games, and I like making them.
 
@@ -11,7 +11,7 @@ I drink a lot of coffee.
 
 ---
 
-## 🤝 Team Contributions
+## Team Contributions
 
 In collaborative projects, I often take responsibility for:
 
@@ -25,7 +25,7 @@ In collaborative projects, I often take responsibility for:
 
 ---
 
-## 🧪 Latest Project
+## Latest Project
 
 **Adaptive Interrogation Narrative (Machine Learning + Games)**
 
@@ -39,7 +39,7 @@ This project combined **game design, narrative theory, and applied machine learn
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 - **Game Engines:** Unreal Engine, Unity  
 - **Programming:** Python, C#, C++
@@ -48,7 +48,7 @@ This project combined **game design, narrative theory, and applied machine learn
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 - 📧 Email: *Guldager.post@gmail.com*  
 - 💼 LinkedIn: *https://www.linkedin.com/in/jdguldager/*  
