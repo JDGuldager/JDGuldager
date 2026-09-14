@@ -1,4 +1,5 @@
 **Game Designer Intern at DADIU – Copenhagen**
+
 **Master’s student in Medialogy** at **Aalborg University – Copenhagen**
 Passionate about **games, interactive narratives, and visual experiences**
 
@@ -8,7 +9,7 @@ Passionate about **games, interactive narratives, and visual experiences**
 
 I like games, and I like making them.
 
-Currently, I’m working as a **Game Designer Intern at DADIU Copenhagen**, collaborating in a multidisciplinary game development team.
+Currently, I’m working as a teachers assistant at Aalborg University Copenhagen 
 
 I drink a lot of coffee.
 
