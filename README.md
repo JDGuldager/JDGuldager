@@ -1,5 +1,5 @@
-🎓 **Master’s student in Medialogy** at **Aalborg University – Copenhagen**  
-🎮 Passionate about **games, interactive narratives, and visual experiences**
+**Master’s student in Medialogy** at **Aalborg University – Copenhagen**  
+Passionate about **games, interactive narratives, and visual experiences**
 
 ---
 
