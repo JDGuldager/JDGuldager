@@ -1,4 +1,5 @@
-**Master’s student in Medialogy** at **Aalborg University – Copenhagen**  
+**Game Designer Intern at DADIU – Copenhagen**
+**Master’s student in Medialogy** at **Aalborg University – Copenhagen**
 Passionate about **games, interactive narratives, and visual experiences**
 
 ---
@@ -6,6 +7,8 @@ Passionate about **games, interactive narratives, and visual experiences**
 ## About Me
 
 I like games, and I like making them.
+
+Currently, I’m working as a **Game Designer Intern at DADIU Copenhagen**, collaborating in a multidisciplinary game development team.
 
 I drink a lot of coffee.
 
@@ -15,12 +18,12 @@ I drink a lot of coffee.
 
 In collaborative projects, I often take responsibility for:
 
-- **System Design & Architecture** – structuring and creating gameplay systems
-- **Optimization & Performance** – identifying bottlenecks and improving runtime efficiency
-- **Version Control & Integration** – maintaining clean workflows and resolving conflicts
-- **Debugging & Bug Fixing** – tracking down system-level issues
-- **Agent Behaviour & Logic** – implementing AI and decision-making systems
-- **Visual Pipeline** – lighting setup, materials, shaders, and textures
+* **System Design & Architecture** – structuring and creating gameplay systems
+* **Optimization & Performance** – identifying bottlenecks and improving runtime efficiency
+* **Version Control & Integration** – maintaining clean workflows and resolving conflicts
+* **Debugging & Bug Fixing** – tracking down system-level issues
+* **Agent Behaviour & Logic** – implementing AI and decision-making systems
+* **Visual Pipeline** – lighting setup, materials, shaders, and textures
 
 ---
 
@@ -30,9 +33,9 @@ In collaborative projects, I often take responsibility for:
 
 In my most recent project, I worked on an **interrogation-based narrative experience** where:
 
-- Machine learning was used to **detect the user’s stress level**
-- The system dynamically **adapted the narrative and character behavior**
-- The goal was to enhance immersion and emotional engagement through **bio-adaptive storytelling**
+* Machine learning was used to **detect the user’s stress level**
+* The system dynamically **adapted the narrative and character behavior**
+* The goal was to enhance immersion and emotional engagement through **bio-adaptive storytelling**
 
 This project combined **game design, narrative theory, and applied machine learning** in an interactive context.
 
@@ -40,17 +43,17 @@ This project combined **game design, narrative theory, and applied machine learn
 
 ## Technical Skills
 
-- **Game Engines:** Unreal Engine, Unity  
-- **Programming:** Python, C#, C++
-- **Web & UI:** React, CSS  
-- **Other interests:** interactive storytelling, player experience, adaptive systems, visuals
+* **Game Engines:** Unreal Engine, Unity
+* **Programming:** Python, C#, C++
+* **Web & UI:** React, CSS
+* **Other interests:** interactive storytelling, player experience, adaptive systems, visuals
 
 ---
 
 ## How to Reach Me
 
-- 📧 Email: *Guldager.post@gmail.com*  
-- 💼 LinkedIn: *https://www.linkedin.com/in/jdguldager/*  
+* 📧 Email: *[Guldager.post@gmail.com](mailto:Guldager.post@gmail.com)*
+* 💼 LinkedIn: *https://www.linkedin.com/in/jdguldager/*
 
 ---
 
