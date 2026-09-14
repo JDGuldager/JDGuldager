@@ -1,6 +1,7 @@
 **Game Designer Intern at DADIU – Copenhagen**
 
 **Master’s student in Medialogy** at **Aalborg University – Copenhagen**
+
 Passionate about **games, interactive narratives, and visual experiences**
 
 ---
